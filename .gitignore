@@ -130,3 +130,9 @@ dmypy.json
 
 # idea
 .idea/
+*.iml
+ 
+# Eclipse #
+.settings/
+.classpath
+.project
